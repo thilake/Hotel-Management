@@ -22,10 +22,9 @@
   <br><br>   
   </select>
   <br><br>
-
   <input type="submit">
+
 </form>
-<br><br>
 
 </body>
 </html>
